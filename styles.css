@@ -86,8 +86,6 @@ img { display: block; max-width: 100%; height: auto; }
 
 .brand-mark {
   display: block;
-  width: 70px;
-  height: 70px;
   flex-shrink: 0;
   object-fit: contain;
 }
@@ -876,8 +874,8 @@ h3 { font-size: 21px; }
 
 .site-footer .brand-mark {
   display: block;
-  width: 80px;
-  height: 80px;
+  width: 98px;
+  height: 98px;
 }
 
 .brand-footer {
@@ -1573,9 +1571,9 @@ h3 { font-size: 21px; }
   .brand small { font-size: 8px; }
 
   .brand-mark {
-    width: 58px;
-    height: 58px;
-    flex: 0 0 58px;
+    width: 71px;
+    height: 71px;
+    flex: 0 0 71px;
   }
 
   .section { padding: 64px 0; }
